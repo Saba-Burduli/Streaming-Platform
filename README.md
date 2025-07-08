@@ -54,12 +54,6 @@ The project shows how webcam data can be streamed between clients and the server
 
 ---
 
-## 🧪 Notes
-
-This project was built over a weekend just to explore what's possible in ASP.NET Core when it comes to **real-time webcam streaming**. It was fun to build, and I’m happy with the results — so here’s the repo! 😄
-
----
-
 ## 🛠️ Technologies Used
 
 - ASP.NET Core
