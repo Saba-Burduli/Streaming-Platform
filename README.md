@@ -85,6 +85,6 @@ Pull requests, ideas, and improvements are welcome!
 
 ## 📄 License
 
-MIT – Do whatever you want, just have fun 😎
+MIT – Do whatever you want, just have fun..
 
 
