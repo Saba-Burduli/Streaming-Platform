@@ -1,16 +1,16 @@
-# 🎥 WebCam Streaming with ASP.NET Core
+#  WebCam Streaming with ASP.NET Core
 
 This is a simple proof-of-concept project demonstrating **webcam streaming** in **ASP.NET Core** web applications using:
 
-- 🌐 `System.Net.WebSockets.WebSocket`
-- ⚡️ `ASP.NET Core SignalR`
-- 🚀 WebRTC *(Coming soon...)*
+-  `System.Net.WebSockets.WebSocket`
+-  `ASP.NET Core SignalR`
+-  WebRTC *(Coming soon...)*
 
 The project shows how webcam data can be streamed between clients and the server using different technologies — all for learning and fun! 😄
 
 ---
 
-## 🔧 Features
+##  Features
 
 ### 1. WebSocket-based Streaming (Grayscale Filter)
 
@@ -20,7 +20,7 @@ The project shows how webcam data can be streamed between clients and the server
 - The **server processes** each frame (e.g., applies a grayscale filter).
 - Processed frames are returned to the client as **Base64 image strings** and displayed in real-time.
 
-🎯 This demonstrates how client-side streams can be processed server-side for effects or analysis.
+ This demonstrates how client-side streams can be processed server-side for effects or analysis.
 
 ---
 
@@ -34,27 +34,27 @@ The project shows how webcam data can be streamed between clients and the server
   - **Client-A’s webcam** stream is sent to the server.
   - The server **relays the stream** to **Client-B** using SignalR’s standard client method calls.
 
-🎯 This demonstrates a simple **peer-to-peer-like** interaction using SignalR without WebRTC.
+ This demonstrates a simple **peer-to-peer-like** interaction using SignalR without WebRTC.
 
 ---
 
-## 🚧 Coming Soon
+##  Coming Soon
 
-- ✅ **WebRTC** integration for true P2P media streaming (no server relaying).
-- 🎛️ UI Improvements & Better Controls
-- 🎨 Filters & Effects
-- 🔒 Authentication & Access Control
+-  **WebRTC** integration for true P2P media streaming (no server relaying).
+-  UI Improvements & Better Controls
+-  Filters & Effects
+-  Authentication & Access Control
 
 ---
 
-## 📚 References & Useful Links
+##  References & Useful Links
 
 - [Use streaming in ASP.NET Core SignalR](https://learn.microsoft.com/en-us/aspnet/core/signalr/streaming)
 - [WebSockets support in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets)
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - ASP.NET Core
 - Razor Pages
@@ -65,19 +65,19 @@ The project shows how webcam data can be streamed between clients and the server
 
 ---
 
-## 🚀 Run & Try
+##  Run & Try
 
 > Instructions on how to build and run this project locally will be added soon...
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 Pull requests, ideas, and improvements are welcome!
 
 ---
 
-## 📄 License
+## License
 
 MIT – Do whatever you want, just have fun..
 
