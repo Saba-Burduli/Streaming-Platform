@@ -6,7 +6,7 @@ This is a simple proof-of-concept project demonstrating **webcam streaming** in 
 -  `ASP.NET Core SignalR`
 -  WebRTC *(Coming soon...)*
 
-The project shows how webcam data can be streamed between clients and the server using different technologies — all for learning and fun! 😄
+The project shows how webcam data can be streamed between clients and the server using different technologies — all for learning and fun! 
 
 ---
 
